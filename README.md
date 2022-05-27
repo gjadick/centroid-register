@@ -1,4 +1,4 @@
-# CentroidRegister
+# Centroid Register
 
 A Python framework for registering two images with known pixel sizes.
 
