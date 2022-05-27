@@ -12,5 +12,5 @@ The final images have matching dimensions and pixel sizes.
 
 The identified centroids are shown as plus signs, and the registration bounds are shown in red.
 
-![example output](./example_result.png)
+![example output](./example_result.jpg)
 
